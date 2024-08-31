@@ -10,7 +10,7 @@ This project integrates the Gemini API to provide a seamless experience for acce
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gemini-api-integration.git
+    git clone https://github.com/shubham21881/Gemini-integration.git
     ```
 
 3. Install the required dependencies:
